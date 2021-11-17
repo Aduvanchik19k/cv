@@ -1,0 +1,125 @@
+body{
+     background-color: orange;
+     text-decoration:  underline;
+    }
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: green;
+    border-width: 30px;
+    height: 20px;
+    width: 60%;
+    }
+hr{
+  border-top-style:dashed;
+  border-color: red;
+}
+p{
+  background-image: url("https://w.wallhaven.cc//full/z8/wallhaven-z8dg9y.png");
+  font-family: "Adventure", cursive;
+  font-size: 20px;
+  line-height: 40px;
+  border-style:  outset;
+  border-color: blue;
+  border-width: 7px;
+}
+img{
+  width: 300px;
+  height: 300px;
+  border-style: double;
+  border-color: black;
+}
+h1{
+  color: purple;
+  background-color: yellow;
+  font-style: italic;
+  font-family: "Adventure", cursive;
+  text-align: center;
+}
+h2{
+  color: black;
+  text-align: left;
+  border-top-style: dashed;
+  border-bottom: dashed;
+  border-color: red;
+  font-style: oblique;
+}
+table{
+  columns: 5;
+  background-color: purple;
+}
+ul{
+  background-color: green;
+  font-style: italic;
+  font-family: "Adventure", cursive;
+}
+form{
+  background-color: black;
+  border-style: double;
+  border-width: 30px;
+  border-color: purple;
+  color: red;
+  height: 50%;
+  width: 40%;
+  font-variant: small-caps;
+}
+.p1{
+  text-align: left;
+  color: red;
+  font-family: monospace;
+  font-stretch: normal;
+}
+.p2{
+  color: white;
+  text-align: left;
+  font-family: serif;
+  width: inherit;
+  height: 80px;
+  background-image: url("https://w.wallhaven.cc/full/z8/wallhaven-z8p1jy.jpg");
+}
+.p3{
+  color: purple;
+  text-align: center;
+  width: auto;
+  font-weight: lighter;
+}
+.td1{
+  font-style: italic;
+  background-color: red;
+  width: 50%;
+  font-family: "Adventure", cursive;
+}
+.td2{
+  font-style: italic;
+  background-color: green;
+  width: 100%;
+}
+.img1{
+  width: 100px;
+  height: 100px;
+}
+.img1:hover{
+  background-color: yellow;
+}
+a:active{
+  font-family: "Roboto", cursive;
+}
+.p3:hover{
+  color:pink;
+}
+#visio{
+  width: 1500px;
+  height: 600px;
+  font-size: 40px;
+}
+#para4{
+  background-color: pink;
+  text-align: center;
+  background-image: url("https://w.wallhaven.cc/full/dp/wallhaven-dpo38l.jpg");
+}
+#ul111{
+  list-style-type: circle;
+  width: 200px;
+  height: 100px;
+  background-color: white;
+}
