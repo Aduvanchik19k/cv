@@ -10,10 +10,6 @@ hr{
     height: 20px;
     width: 60%;
     }
-hr{
-  border-top-style:dashed;
-  border-color: red;
-}
 p{
   background-image: url("https://w.wallhaven.cc//full/z8/wallhaven-z8dg9y.png");
   font-family: "Adventure", cursive;
